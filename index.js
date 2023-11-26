@@ -6,6 +6,9 @@ const bat = spawn('cmd.exe', ['/c', 'while.bat']);
 
 bat.stdout.on('data', (data) => {
   console.log(data.toString());
+  console.log(data.toString());
+  console.log(data.toString());
+  console.log(data.toString());
 });
 
 bat.stderr.on('data', (data) => {
