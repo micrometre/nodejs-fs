@@ -1,0 +1,45 @@
+public/images//MicrometreUK-cam1-1701668166186.jpg
+plate0: 1 results
+    - LM9KT0	 confidence: 80.9028
+public/images//MicrometreUK-cam1-1701668166283.jpg
+plate0: 1 results
+    - L19K0	 confidence: 78.6521
+public/images//MicrometreUK-cam1-1701668166377.jpg
+plate0: 1 results
+    - 19KT0	 confidence: 77.7663
+public/images//MicrometreUK-cam1-1701668166473.jpg
+plate0: 1 results
+    - LM9K0	 confidence: 79.7836
+public/images//MicrometreUK-cam1-1701668166566.jpg
+plate0: 1 results
+    - LM9K0	 confidence: 80.1585
+public/images//MicrometreUK-cam1-1701668166663.jpg
+plate0: 1 results
+    - L19KT0	 confidence: 81.6984
+public/images//MicrometreUK-cam1-1701668166824.jpg
+plate0: 1 results
+    - LM9KT0	 confidence: 80.8533
+public/images//MicrometreUK-cam1-1701668166919.jpg
+plate0: 1 results
+    - LM9KT0	 confidence: 81.0673
+public/images//MicrometreUK-cam1-1701668167078.jpg
+plate0: 1 results
+    - L9KT0	 confidence: 80.1043
+public/images//MicrometreUK-cam1-1701668167171.jpg
+plate0: 1 results
+    - L19KT0	 confidence: 81.2663
+public/images//MicrometreUK-cam1-1701668167265.jpg
+plate0: 1 results
+    - LM9KT0	 confidence: 81.3151
+public/images//MicrometreUK-cam1-1701668167356.jpg
+plate0: 1 results
+    - L19KT0	 confidence: 82.334
+public/images//MicrometreUK-cam1-1701668167448.jpg
+plate0: 1 results
+    - L9KT0	 confidence: 80.8893
+public/images//MicrometreUK-cam1-1701668167547.jpg
+plate0: 1 results
+    - L9KT0	 confidence: 82.5177
+public/images//MicrometreUK-cam1-1701668167647.jpg
+plate0: 1 results
+    - L9KT0	 confidence: 81.4556
