@@ -8,7 +8,7 @@ const { spawn } = require('node:child_process');
 const { exec } = require('node:child_process');
 const ls = spawn('ls', ['-lh', '/usr']);
 
-exec('bash scripts/manage.sh', (error, stdout, stderr) => {
+exec('bash scripts/test.sh', (error, stdout, stderr) => {
   if (error) {
     console.error(`${error}`);
     return;
